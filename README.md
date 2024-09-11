@@ -22,8 +22,6 @@ git clone https://github.com/yourusername/youtube-clone.git
 cd youtube-clone
 ## Install dependencies:
 
-cd client 
-
 npm install
 ## To run the application locally, follow these steps:
 npm start
