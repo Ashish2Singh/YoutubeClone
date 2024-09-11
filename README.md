@@ -23,6 +23,7 @@ cd youtube-clone
 ## Install dependencies:
 
 cd client 
+
 npm install
 ## To run the application locally, follow these steps:
 npm start
