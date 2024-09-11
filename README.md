@@ -16,14 +16,13 @@ Check out the live demo of the application here: https://jsm-media-31.netlify.ap
 # Installation
 To get started with the project, follow these steps:
 
-**Clone the repository:**
+## Clone the repository:
 git clone https://github.com/yourusername/youtube-clone.git
-**Navigate to the project directory:**
+## Navigate to the project directory:
 cd youtube-clone
-**Install dependencies:**
-cd client 
+## Install dependencies:
 
+cd client 
 npm install
-# Usage
-To run the application locally, follow these steps:
+## To run the application locally, follow these steps:
 npm start
